@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.todo-item-container {
+  list-style-type: none;
+}
+.each-todo-cont {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.delete-btn {
+  text-align: right;
+  margin: 20px;
+
+  outline: none;
+}
